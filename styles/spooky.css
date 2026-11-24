@@ -1,0 +1,35 @@
+body {
+                font-size:1em;
+                font-weight:normal;
+                font-family:Arial, sans-serif;
+                    color:#000000; /*black*/
+                    text-align:left;
+            }
+            h1{
+                font-size:1.8em;
+                font-weight:bold;
+                font-family:intern, cursive;
+                color:#57008E; /*purple*/
+                text-align:center;
+            }
+            h2{
+                font-size:1.8em;
+                font-weight:bold;
+                font-family: Eater, cursive;
+                text-align:left;
+                color:#780606; /*blood_red*/
+            }
+            div{
+                font-size:1em;
+                font-weight:normal;
+                font-family: intern, serif;
+                color:#000000;
+                text-align:left;
+                text-indent:20px;
+            }
+            p{
+                Font-size:1em;
+                    font-weight:normal;
+                font-family:intern, serif;
+                text-align:left;
+            }
